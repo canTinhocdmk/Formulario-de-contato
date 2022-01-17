@@ -9,6 +9,6 @@ Dessa forma imprimiria as informações, o maior problema (ou talvez chatice) é
 
 Se você leu até aqui, obrigado, isso foi uma breve explicação desse simples formulário que eu fiz.
 
-![Resultado do formulario feito em python](https://user-images.githubusercontent.com/52702785/149770286-e36ba86a-925a-4945-bd17-096176bf62b8.png)
+![image](https://user-images.githubusercontent.com/52702785/149771017-41b81d50-5288-425a-a485-b80415c9d7ba.png)
 
 Feito com Love by Gabrielan1 <3
